@@ -1,0 +1,51 @@
+- name: Xuan Zhou-周璇
+  photo: 周璇.jpg
+  info: preventive medicine
+  email: xuanzhou810@gamil.com
+  number_educ: 2
+  education1: School of Public Health, Zhejiang University
+  education2: 浙江大学公共卫生学院预防医学本科生
+
+
+- name: Xinxuan Li-李心璇
+  photo: 李心璇.jpg
+  info: Preventive medicine
+  email: xinxuanli1222@163.com
+  number_educ: 2
+  education1: School of Public Health, Zhejiang University
+  education2: 浙江大学公共卫生学院预防医学本科生
+
+- name: Yajing Zhou-周娅京
+  photo: 周娅京.jpg
+  info: Preventive medicine
+  email: 3180101277@zju.edu.cn
+  number_educ: 2
+  education1: School of Public Health, Zhejiang University
+  education2: 浙江大学公共卫生学院预防医学本科生
+
+- name: Nan Yang-杨楠
+  photo: 杨楠.jpg
+  info: Preventive medicine
+  email: 3190104391@zju.edu.cn
+  number_educ: 2
+  education1: School of Public Health, Zhejiang University
+  education2: 浙江大学公共卫生学院预防医学本科生
+
+  name: Shuhui Dai-戴淑惠
+  photo: 戴淑惠.jpg
+  info: Preventive medicine
+  email: 3190104381@zju.edu.cn
+  number_educ: 2
+  education1: School of Public Health, Zhejiang University
+  education2: 浙江大学公共卫生学院预防医学本科生
+
+
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+#   email: milan.allan@gmail.com
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:

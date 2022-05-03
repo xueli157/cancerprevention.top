@@ -1,0 +1,39 @@
+- name: Lijuan Wang-王丽娟
+  photo: 王丽娟.jpg
+  info: Multi-omics
+  email: wanglijuan_njmu@126.com
+  number_educ: 4
+  personweb: 
+  education1: MPH (Public Health) from Nanjing Medical University
+  education2: 南京医科大学公共卫生硕士
+  education3: M.B. from Nanjing Medical University
+  education4: 南京医科大学预防医学本科
+
+- name: Han Zhang-张晗
+  photo: 张晗.jpg
+  info: Medelian Randomization
+  email:15736758268@163.com
+  number_educ: 4
+  education1: Zhengzhou University
+  education2: 郑州大学流行病与卫生统计学
+  education3: M.B. from Zhengzhou University
+  education4: 郑州大学预防医学本科
+ 
+  name: Dou Lili-理斗斗
+  photo: 理斗斗.jpg
+  info: 膳食营养
+  email: 
+  number_educ: 4
+  education1: M.B. from Zhengzhou University
+  education2: 郑州大学预防医学本科
+
+
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+#   email: milan.allan@gmail.com
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+#   education4:
