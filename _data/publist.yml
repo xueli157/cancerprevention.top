@@ -1,4 +1,4 @@
-- title: A systematic review of microbial markers for risk prediction of colorectal neoplasia.
+- title: "A systematic review of microbial markers for risk prediction of colorectal neoplasia."
   image: dummy.png
   description: ""
   year: 2022
@@ -63,7 +63,7 @@
   highlight: 1
   news2:
 
-- title: Phenome-wide association study (PheWAS) of colorectal cancer risk SNP effects on health outcomes in UK Biobank.
+- title: "Phenome-wide association study (PheWAS) of colorectal cancer risk SNP effects on health outcomes in UK Biobank."
   image: dummy.png
   description: ""
   year: 2021
@@ -94,7 +94,7 @@
     display: British Medical Journal, 2021
   highlight: 1
 
-- title: An observational and Mendelian randomisation study on vitamin D and COVID-19 risk in UK Biobank.
+- title: "An observational and Mendelian randomisation study on vitamin D and COVID-19 risk in UK Biobank."
   image: dummy.png
   description: ""
   year: 2021
@@ -105,15 +105,15 @@
     display: Scientific reports, 2021
   highlight: 1
 
-- title: Bi‐directional Mendelian randomisation analysis of the relationship between circulating vitamin D concentration and colorectal cancer risk.
-image: dummy.png
-description: ""
-year: 2021
-authors: Yazhou He, Xiaomeng Zhang, Maria Timofeeva, Susan M. Farrington, <b>Xue Li</b>, Wei Xu, Harry Campbell, Richard S. Houlston, Ian P. Tomlinson, Evropi Theodoratou, Malcolm G. Dunlop.
-link:
-  url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/ijc.33779
-  display: International journal of cancer, 2021
-highlight: 1
+- title: "Bi‐directional Mendelian randomisation analysis of the relationship between circulating vitamin D concentration and colorectal cancer risk."
+  image: dummy.png
+  description: ""
+  year: 2021
+  authors: Yazhou He, Xiaomeng Zhang, Maria Timofeeva, Susan M. Farrington, <b>Xue Li</b>, Wei Xu, Harry Campbell, Richard S. Houlston, Ian P. Tomlinson, Evropi Theodoratou, Malcolm G. Dunlop.
+  link:
+    url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/ijc.33779
+    display: International journal of cancer, 2021
+  highlight: 1
 
 
 - title: "Methodology in phenome-wide association studies: A systematic review"
@@ -199,7 +199,6 @@ highlight: 1
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7916320/pdf/jogh-11-04009.pdf
     display: Journal of global health, 2021
-
   highlight: 1
   news2:
 
@@ -241,7 +240,7 @@ highlight: 1
 
   highlight: 1
 
-- title: Colorectal cancer risk variants rs10161980 and rs7495132 are associated with cancer survival outcome by a recessive mode of inheritance.
+- title: "Colorectal cancer risk variants rs10161980 and rs7495132 are associated with cancer survival outcome by a recessive mode of inheritance."
   image: dummy.png
   description: ""
   year: 2021
@@ -266,7 +265,7 @@ highlight: 1
   highlight: 1
 
 
-- title: What is the evidence for transmission of COVID-19 by children in schools? A living systematic review.
+- title: "What is the evidence for transmission of COVID-19 by children in schools? A living systematic review."
   image: dummy.png
   description: ""
   year: 2020
@@ -321,7 +320,7 @@ highlight: 1
     display: Journal of global health, 2020
   highlight: 1
 
-- title: Prediction of Colorectal Cancer Risk Based on Profiling with Common Genetic Variants.
+- title: "Prediction of Colorectal Cancer Risk Based on Profiling with Common Genetic Variants."
   image: dummy.png
   year: 2020
   description: ""
@@ -376,7 +375,7 @@ highlight: 1
     display: Cancer medicine, 2020
   highlight: 1
 
-- title: A Systematic Analysis of Interactions Between Environmental Risk Factors and Genetic Variation in Susceptibility to Colorectal Cancer.
+- title: "A Systematic Analysis of Interactions Between Environmental Risk Factors and Genetic Variation in Susceptibility to Colorectal Cancer."
   image: dummy.png
   year: 2020
   description: ""
@@ -387,7 +386,7 @@ highlight: 1
     display: Cancer epidemiology, biomarkers & prevention, 2020
   highlight: 1
 
-- title: Systematic meta-analyses, field synopsis and global assessment of the evidence of genetic association studies in colorectal cancer.
+- title: "Systematic meta-analyses, field synopsis and global assessment of the evidence of genetic association studies in colorectal cancer."
   image: dummy.png
   year: 2019
   description: ""
@@ -431,7 +430,7 @@ highlight: 1
     display: JMIR Medical Informatics, 2019
   highlight: 1
 
-- title: Phenome-wide Mendelian-randomization study of genetically determined Vitamin D on multiple health outcomes using the UK Biobank study.
+- title: "Phenome-wide Mendelian-randomization study of genetically determined Vitamin D on multiple health outcomes using the UK Biobank study."
   image: dummy.png
   year: 2019
   description: ""
@@ -442,7 +441,7 @@ highlight: 1
     display: International journal of epidemiology, 2019
   highlight: 1
 
-- title: A Comprehensive Study of the Effect on Colorectal Cancer Survival of Common Germline Genetic Variation Previously Linked with Cancer Prognosis.
+- title: "A Comprehensive Study of the Effect on Colorectal Cancer Survival of Common Germline Genetic Variation Previously Linked with Cancer Prognosis."
   image: dummy.png
   year: 2019
   description: ""
@@ -475,7 +474,7 @@ highlight: 1
     display: Surgical Oncology, 2019
   highlight: 1
 
-- title: Temporal trends in normal weight central obesity and its associations with cardiometabolic risk among Chinese adults
+- title: "Temporal trends in normal weight central obesity and its associations with cardiometabolic risk among Chinese adults"
   image: dummy.png
   year: 2019
   description: ""
@@ -531,7 +530,7 @@ highlight: 1
   highlight: 1
 
 
-- title: Prevalence of chronic obstructive pulmonary disease (COPD) in China in 1990 and 2010.
+- title: "Prevalence of chronic obstructive pulmonary disease (COPD) in China in 1990 and 2010."
   image: dummy.png
   year: 2017
   description: ""
@@ -586,7 +585,7 @@ highlight: 1
     display: Journal of global health, 2016
   highlight: 1
 
-- title: Systematic meta-analyses and field synopsis of genetic and epigenetic studies in paediatric inflammatory bowel disease.
+- title: "Systematic meta-analyses and field synopsis of genetic and epigenetic studies in paediatric inflammatory bowel disease."
   image: dummy.png
   year: 2016
   description: ""
@@ -597,7 +596,7 @@ highlight: 1
     display: Scientific reports, 2016
   highlight: 1
 
-- title: Short- and Long-Term Effects of Wholegrain Oat Intake on Weight Management and Glucolipid Metabolism in.
+- title: "Short- and Long-Term Effects of Wholegrain Oat Intake on Weight Management and Glucolipid Metabolism in."
   image: dummy.png
   year: 2016
   description: ""
@@ -608,7 +607,7 @@ highlight: 1
     display: Nutrients, 2016
   highlight: 1
 
-- title: BMI, Waist Circumference Reference Values for Chinese School-Aged Children and Adolescents.
+- title: "BMI, Waist Circumference Reference Values for Chinese School-Aged Children and Adolescents."
   image: dummy.png
   year: 2016
   description: ""
