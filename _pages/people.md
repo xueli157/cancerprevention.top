@@ -26,7 +26,7 @@ permalink: /people/
 
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="12.5%" style="float: left" />
-  <h4><a href="{{ site.url }}{{ site.baseurl }}/jieyang">{{ member.name }}</a></h4>
+  <h4><a href="{{ site.url }}{{ site.baseurl }}/xueli">{{ member.name }}</a></h4>
   <i><a href="{{member.scholar }}">Google Scholar</a>&nbsp;&nbsp;<a href="{{ member.github }}">Github</a></i><br>
   <i>{{ member.info1 }} </i><br>
   <i>{{ member.info2 }} </i><br>
