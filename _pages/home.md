@@ -3,7 +3,7 @@ title: "Nutrition and Molecular Genetic Research - Home"
 layout: homelay
 excerpt: "cancerprevention -- Home."
 sitemap: false
-permalink: /Home/
+permalink: /
 ---
 
 Xue’s group由浙江大学[Zhejiang University](https://www.zju.edu.cn/english/)医学院公共卫生学院大数据健康科学系李雪[Prof. Jie Yang](https://ylab.top/jieyang/)研究员组建，是一个团结友爱，朝气蓬勃的大家庭，课题组成员互帮互助，对待科研严肃认真，对待学习充满热情。团队成员主要包括科研助理、博士研究生、硕士研究生和本科生20余人，专业涵盖预防医学、临床医学、药学等学科。
