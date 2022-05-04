@@ -1,9 +1,9 @@
 ---
-title: "Nutrition and Molecular Genetic Research - Topic"
+title: "Nutrition and Molecular Genetic Research - Topics"
 layout: gridlay
-excerpt: "cancerprevention - Topic"
+excerpt: "cancerprevention - Topics"
 sitemap: false
-permalink: /Topic/
+permalink: /topic/
 ---  
   
   
