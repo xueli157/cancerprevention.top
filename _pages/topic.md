@@ -8,7 +8,7 @@ permalink: /topic/
   
   
 
-## Topic 1 Multi-omics多组学研究
+## Topic 1 Multi-omics (多组学研究)
 
 ### Introduction
 
