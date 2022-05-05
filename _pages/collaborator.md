@@ -6,10 +6,10 @@ sitemap: false
 permalink: /Collaborators/
 ---
 
-# Collaborator
+## Collaborator
 
-**International collaborator:**
-<ul>
+## **International collaborator:**
+
   <li> <font color="black">Malcolm G. Dunlop</font> 
   Professor and Chair of Coloproctology 
   Honorary Consultant Colorectal Surgeon, UK</li>
