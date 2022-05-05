@@ -1,9 +1,9 @@
 ---
-title: "Nutrition and Molecular Genetic Research - Collaborator"
+title: "Nutrition and Molecular Genetic Research - Collaborators"
 layout: gridlay
-excerpt: "cancerprevention: Collaborator"
+excerpt: "cancerprevention: Collaborators"
 sitemap: false
-permalink: /Collaborator/
+permalink: /Collaborators/
 ---
 
 # Collaborator
