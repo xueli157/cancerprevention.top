@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Xue’s group由浙江大学[Zhejiang University](https://www.zju.edu.cn/english/)医学院公共卫生学院大数据健康科学系李雪[Prof. Jie Yang](https://ylab.top/jieyang/)研究员组建，是一个团结友爱，朝气蓬勃的大家庭，课题组成员互帮互助，对待科研严肃认真，对待学习充满热情。团队成员主要包括科研助理、博士研究生、硕士研究生和本科生20余人，专业涵盖预防医学、临床医学、药学等学科。
+Xue’s group由浙江大学[Zhejiang University](https://www.zju.edu.cn/english/)医学院公共卫生学院大数据健康科学系李雪[Prof. Xue Li](https://www.cancerprevention.top/)研究员组建，是一个团结友爱，朝气蓬勃的大家庭，课题组成员互帮互助，对待科研严肃认真，对待学习充满热情。团队成员主要包括科研助理、博士研究生、硕士研究生和本科生20余人，专业涵盖预防医学、临床医学、药学等学科。
 自成立以来，在李雪研究员的带领下，团队成员积极开展了一系列的科研工作，研究重点是基于大数据的结直肠癌相关**营养学和分子遗传学研究**，且在结直肠癌的**危险因素鉴定、血清生物标志物的多组学研究、因果路径推断和分子生物信息学**等领域积累了丰富的经验。课题组的主要研究方向包括： 
 
 * 结直肠癌风险预测、高危人群筛查/随访、预后/生存的流行病学研究; 
@@ -38,7 +38,7 @@ Xue’s group由浙江大学[Zhejiang University](https://www.zju.edu.cn/english
             <img src="{{ site.url }}{{ site.baseurl }}/images/respic/fp3.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/fp4.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/fp4.jpg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -52,7 +52,7 @@ Xue’s group由浙江大学[Zhejiang University](https://www.zju.edu.cn/english
 </div>
 
 
-与生物标志物和药物疗效相关的循证医学研究课题组与国内外顶级高校间建立了密切的合作关系，包括北京大学、爱丁堡大学，卡罗琳斯卡医学院等。作为浙江大学结直肠癌优势领域的课题组之一，我们始终相信，发展科研创造力、学术专业性及独立性对课题组的可持续发展至关重要。李雪课题组欢迎优秀、热情的你加入我们。
+课题组与国内外顶级高校间建立了密切的合作关系，包括北京大学、爱丁堡大学，卡罗琳斯卡医学院等。作为浙江大学结直肠癌优势领域的课题组之一，我们始终相信，发展科研创造力、学术专业性及独立性对课题组的可持续发展至关重要。李雪课题组欢迎优秀、热情的你加入我们。
 
 
 更多详情请见cancerprevention.top主页。
