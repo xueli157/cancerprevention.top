@@ -341,23 +341,4 @@ permalink: /people/
 {% endif %}
 
 
-
-## Alumni
-<div class="row">
-
-
-<div class="col-sm-6 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-6 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
 </div>
