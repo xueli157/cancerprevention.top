@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "YLab at Zhejiang University."
+excerpt: "XueGroup at Zhejiang University."
 sitemap: false
 permalink: /allnews.html
 ---
