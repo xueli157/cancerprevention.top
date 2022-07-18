@@ -26,12 +26,8 @@ Research: Nutrition epidedemiology，研究方向：血清生物标志物的多�
   I am a tenure-track assistant professor at <a href="https://www.zju.edu.cn/">Zhejiang University，浙江大学</a>. Previously, I was a postdoctoral research fellow at <a href="https://www.harvard.edu/">The University of Edinburgh </a> (Centre for Global Health Sciences)，爱丁堡大学博士后研究员. I received my Ph.D. degree from <a href="http://www.sutd.edu.sg/">The University of Edinburgh</a> (SUTD)，爱丁堡大学. I was a visiting student at <a href="http://www.ox.ac.uk/">University of Oxford</a> . <br> 
 
   <br>
-  My research interests are mainly focused on artificial intelligence 
-(AI) in healthcare/public health and natural language processing. I 
-served as an  <font color="red">area chair of EMNLP 2021</font> , <font color="red">SPC of AMIA 2020 annual symposium</font>,
-  the program committee of top-tier conferences: 
-ACL/AAAI/IJCAI/EMNLP/NAACL/AMIA/ICML/ICLR. I was selected as ACL 2018 
-outstanding reviewer, COLING 2018 outstanding reviewer. I won the <font color="red">COLING Best Paper Award</font> at 2018, <font color="red">ACL Best demo Paper Award Nomination</font> at 2018, and <font color="red">ISTD Best Dissertation Award</font>. I am the developer of several popular NLP tools: <a href="https://github.com/jiesutd/NCRFpp"><b>NCRF++</b> </a> and <a href="https://github.com/jiesutd/YEDDA"><b>YEDDA</b></a>, which attracted more than 4000 stars at GitHub. <br>
+ 我的主要研究方向：结直肠癌的营养基因组学，肿瘤和营养流行病学，以及多组学技术的肿瘤发生发展机制及转化研究。近5年，先后在国际权威期刊发表SCI论文共计60余篇，以第一或通讯作者（含共同）发表SCI论文34篇，包括BMJ、Ann Rheum Dis、Gut、PloS Med、Int J Epidemiol、Am J Clin Nutr、EBioMedicine等；并以共同作者在Circulation、Ann Intern Med、Hypertension、BMC Med等医学权威期刊发表论文。论文被包括Nat Genet、Nat Rev Rheum、Lancet Rheum、Ann Rheum Dis在内的多种杂志引用，其中2篇被列为ESI高被引论文，H-index为22，研究成果受到国际同行的广泛关注，担任BMJ、Nat Commun、JNCI、Cancer Res等医学权威期刊审稿人。
+   <br>
 
   
   <br>
