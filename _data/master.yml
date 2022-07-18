@@ -1,6 +1,6 @@
 - name: Lili Yu-余丽丽
   photo: yl.jpg
-  info: Bioinformatics
+  info: 结直肠癌分子遗传学研究
   email: lili_yu20@zju.edu.cn
   number_educ: 2
   education1: B.S. from Bengbu Medical College, China
@@ -8,7 +8,7 @@
 
 - name: Rongqi Zhang-张荣琪
   photo: zrq.jpg
-  info: Evidence-based medicine
+  info: 早发性结直肠癌流行学研究
   email: 22118865@zju.edu.cn
   personweb: 
   number_educ: 2
@@ -17,7 +17,7 @@
 
 - name: Ying Lu-陆影
   photo: ly.jpg
-  info: Mendelian Randomization
+  info: 肿瘤营养学
   email: 22118841@zju.edu.cn
   number_educ: 2
   education1: M.B. from Anhui Medical University
@@ -25,7 +25,7 @@
 
 - name: Liying Xu-徐李蓥
   photo: xly.jpg
-  info: Disease Burdern
+  info: 结直肠癌筛查
   personweb: 
   email: 22118868@zju.edu.cn
   number_educ: 2
@@ -34,7 +34,7 @@
 
 - name: Fangyuan Jiang-蒋方圆
   photo: jf.jpg
-  info: Dietary nutrition
+  info: 营养基因组学
   personweb: 
   email: 3170104063@zju.edu.cn
   number_educ: 2
