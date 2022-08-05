@@ -10,7 +10,7 @@ permalink: /xueli/
 
 <h3>Xue Li (李雪), Ph.D.</h3>
 
-Assistant Professor (ZJU 100 Young Professor) @ <a href="https://www.zju.edu.cn/">Zhejiang University</a> ，浙江大学百人计划研究员/博士生导师<br>
+Assistant Professor (ZJU 100 Young Professor) @ [Zhejiang University](https://www.zju.edu.cn/)，浙江大学百人计划研究员/博士生导师<br>
 Adjunct Professor @ <a href="http://www.z2hospital.com/">the second Affiliated Hospital of Zhejiang University</a> ，浙江大学附属第二医院双聘教授<br>
 Registered nutrition expert of Chinese Nutrition Society，中国营养学会注册营养专家<br>
 Research: Nutrition epidedemiology，研究方向：血清生物标志物的多组学研究，膳食营养因素研究 <br>
