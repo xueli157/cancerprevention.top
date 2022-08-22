@@ -6,7 +6,7 @@ sitemap: false
 permalink: /collaborator/
 ---
 
-## Collaborator
+## Collaborators
 
 ## **International collaborator:**
 
