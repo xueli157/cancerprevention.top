@@ -40,7 +40,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/respic/fp4.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/fp4.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/fp5.png" alt="Slide 5" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
