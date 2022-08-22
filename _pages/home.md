@@ -1,7 +1,7 @@
 ---
 title: "Nutrition and Molecular Genetic Research - Home"
 layout: homelay
-excerpt: "cancerprevention -- Home."
+excerpt: "cancerprevention -- Home"
 sitemap: false
 permalink: /
 ---
