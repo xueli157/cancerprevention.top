@@ -8,7 +8,7 @@ permalink: /collaborator/
 
 ## Collaborators
 
-## **International collaborator:**
+## **International collaborator**
 
   <li> <font color="black">Malcolm G. Dunlop</font> 
   Professor and Chair of Coloproctology 
