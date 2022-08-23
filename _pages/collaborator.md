@@ -11,10 +11,10 @@ permalink: /
 ## **International collaborator:**
 
   <li> <font color="black">Malcolm G. Dunlop</font> 
-  *Professor and Chair of Coloproctology 
-  *Honorary Consultant Colorectal Surgeon, UK</li>
+  Professor and Chair of Coloproctology 
+  Honorary Consultant Colorectal Surgeon, UK</li>
   <li> <font color="black">Evropi Theodoratou</font> 
-  *Professor of Cancer Epidemiology and Global Health, University of Edinburgh</li>
+  Professor of Cancer Epidemiology and Global Health, University of Edinburgh</li>
   <li> <font color="black">Julian Little</font>  
   Professor and holder of the Canada Research Chair in Human Genome Epidemiology, University of Ottawa, Canada</li>
   <li> <font color="black">Wei Zheng</font> 
