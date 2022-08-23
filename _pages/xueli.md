@@ -35,7 +35,7 @@ I am a tenure-track assistant professor at <a href="https://www.zju.edu.cn/">Zhe
 <br>
 <h4>News</h4>
 <ul>
-  <li>2022: Position openings“课题组正在招募博士后</a> </font></b> and <b><font color="blue">，另有博士、硕士研究生招生名额，欢迎报考！” </li>
+  <li>2022: 职位空缺“课题组正在招募博士后</a> </font></b> and <b><font color="blue">，另有博士、硕士研究生招生名额，欢迎报考!” </li>
   <li>2022: 周璇同学荣获浙江大学优秀本科生毕业论文! </li>
   <li>2022: 周璇同学获爱丁堡大学全额PhD奖学金! </li>
   <li>2022: 本课题组蒋方圆在中华流行病学杂志发表题为“全表型组关联研究方法学概述”的文章! </li>
