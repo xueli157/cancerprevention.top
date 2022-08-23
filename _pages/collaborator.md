@@ -1,7 +1,7 @@
 ---
 title: "Nutrition and Molecular Genetic Research - Collaborators"
 layout: gridlay
-excerpt: "cancerprevention -- Collaborators."
+excerpt: "cancerprevention - Collaborators."
 sitemap: false
 permalink: /collaborator/
 ---
