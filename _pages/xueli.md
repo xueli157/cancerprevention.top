@@ -42,11 +42,6 @@ I am a tenure-track assistant professor at <a href="https://www.zju.edu.cn/">Zhe
   <li>2022: 本课题组微信公众号（CRC Daily)于2022年3月正式上线啦！本公众号分别于每周二、三、四、五、日推送结直肠癌和营养科学领域的最新内容，欢迎各位读者通过公众号留言与我们交流。 </li>
   <li>2022: 本课题组理斗斗、陆影以共同第一作者在The American Journal of Clinical Nutrition上发表题为“Gut microbiota-derived metabolite Trimethylamine-N-oxide (TMAO) and multiple health outcomes: an umbrella review and updated meta-analysis”的文章。 </li>
   <li>2021:  浙江大学预防医学本科生周璇、卡罗林斯卡医学院肖嘉睿和爱丁堡大学博士生王丽娟以共同第一作者在International Journal of Cancer上发表题为“Alcohol consumption, DNA methylation and colorectal cancer risk: Results from pooled cohort studies and Mendelian randomization analysis”的文章。 </li>
-<!-- <li>2019-Mar:  Our journal paper "From Gensis to Creole language: Transfer Learning for Singlish Universal Dependencies Parsing and POS Tagging" is accepted by TALLIP.</li>
-  <li>2019-Feb:  Our short paper "Subword Encoding in Lattice LSTM for Chinese Word Segmentation" is accepted by NAACL 2019.</li> -->
-  <li>2019:  Glad to receive the Nvidia GPU Grant! Now I have my own weapon : )</li>
-  <li>2018: I have joined Harvard University (HMS &amp; BWH) as a postdoc fellow, working on AI for healthcare.  </li>
-  <li>2018:  Glad to receive the ISTD Best Dissertation Award! </li>
  <!--  <li>2018-Sep:  <font color="red">I graduate! <a href="img/person/Graduate.jpeg">Pic</a></font>  </li>
    <li>2018-Sep:  Glad to be ranked as Top 3 Python GitHub developers in Singapore by <a href="http://git-awards.com/users?country=singapore&language=python">git-awards</a>.</li>
   <li>2018-Aug:  Honored to be recognized as the Outstanding Reviewer at ACL 2018 and COLING 2018.</li>
