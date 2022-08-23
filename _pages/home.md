@@ -3,7 +3,7 @@ title: "Nutrition and Molecular Genetic Research - Home"
 layout: homelay
 excerpt: "cancerprevention -- Home"
 sitemap: false
-permalink: /home/
+permalink: /
 ---
 
 **Xue’s group**由浙江大学[Zhejiang University](https://www.zju.edu.cn/english/)医学院公共卫生学院大数据健康科学系李雪[Prof. Xue Li](https://www.cancerprevention.top/)研究员组建，是一个团结友爱，朝气蓬勃的大家庭，课题组成员互帮互助，对待科研严肃认真，对待学习充满热情。团队成员主要包括科研助理、博士研究生、硕士研究生和本科生20余人，专业涵盖预防医学、临床医学、药学等学科。自成立以来，在李雪研究员的带领下，团队成员积极开展了一系列的科研工作，研究重点是基于大数据的结直肠癌相关**营养学和分子遗传学研究**，且在结直肠癌的**危险因素鉴定、血清生物标志物的多组学研究、因果路径推断和分子生物信息学**等领域积累了丰富的经验。课题组的主要研究方向包括： 
